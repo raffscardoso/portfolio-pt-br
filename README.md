@@ -12,9 +12,11 @@ Olá, bem vindo ao meu projeto de portfolio.
 
 * CSS
 
+## Linkedin: https://www.linkedin.com/in/raffscardoso/
+
 ## Desenvolvido por Rafael Cardoso.
 
-## Linkedin: https://www.linkedin.com/in/raffscardoso/
+
 
 
 
